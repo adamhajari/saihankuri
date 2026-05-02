@@ -170,6 +170,7 @@ a:focus{outline:none;}
 
 /*COMMENTS*/
 .comments_template{ width:100%; float:left; margin-top:10px;}
+#content .center > .comments_template{ width:710px; margin-left:auto; margin-right:auto; float:none;}
 .commentlist{ margin:0; padding:0;}
 .commentlist li{ list-style-type:none;}
 h3#comments{ color:#333333;}
