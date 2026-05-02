@@ -67,6 +67,8 @@
   .lay1 .page img {
     width: 100% !important;
     height: 200px;
+    object-fit: cover;
+    object-position: center;
   }
 
   /* Main content + sidebar: stack vertically */
